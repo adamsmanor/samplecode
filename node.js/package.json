@@ -1,0 +1,15 @@
+{
+  "name": "chat-server",
+  "version": "0.2.6",
+  "description": "A sample chat server",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "main": "chat-server.js",
+  "scripts": {
+    "start": "node chat-server.js",
+  },
+  "dependencies": {
+    "net": "8.8.x",
+  }
+}
